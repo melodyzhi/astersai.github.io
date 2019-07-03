@@ -1260,9 +1260,4 @@ img::-moz-selection {
   color: #ddd;
 }
 
-@media (max-width: 600px) {
-	.visible-xs{
-	    display: none;
-	}
-}
 
