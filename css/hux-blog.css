@@ -1260,4 +1260,13 @@ img::-moz-selection {
   color: #ddd;
 }
 
-
+@media (min-width: 768px) {
+  .media-content {
+    width: 50%;
+  }
+}
+@media (max-width: 600px) {
+  .media-content {
+    width: 100%;
+  }
+}
